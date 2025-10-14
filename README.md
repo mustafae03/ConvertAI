@@ -1,0 +1,1 @@
+Python kodlarını C++’a dönüştüren, yerel olarak çalışan yapay zeka destekli dönüştürücü. Seçtiğiniz model (ChatGPT, Claude veya açık kaynaklı modelimiz Qwen) ile kodunuzu 100 kat daha hızlı çalıştırın. Ayrıca, kodunuzun dokümantasyonunu ve açıklamalarını anında oluşturun.
